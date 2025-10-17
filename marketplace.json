@@ -1,0 +1,30 @@
+{
+  "name": "Laravel Development Bundle",
+  "description": "Comprehensive Laravel development skills including Laravel 12, Tailwind CSS v4, and Pest v4 testing. Build modern Laravel applications with best practices for backend architecture, beautiful UI styling, and comprehensive testing.",
+  "version": "1.0.0",
+  "author": "Terry Matula",
+  "skills": [
+    {
+      "path": "laravel-12",
+      "name": "laravel-12",
+      "description": "Expert guidance for building Laravel 12 applications following best practices, modern conventions, and the streamlined Laravel 12 architecture."
+    },
+    {
+      "path": "tailwind-v4",
+      "name": "tailwind-v4",
+      "description": "Expert guidance for styling with Tailwind CSS v4, including modern utility classes, dark mode implementation, responsive design patterns, and component composition."
+    },
+    {
+      "path": "pest-testing",
+      "name": "pest-testing",
+      "description": "Comprehensive guidance for writing Pest v4 tests in Laravel applications, including feature tests, unit tests, and browser tests."
+    }
+  ],
+  "tags": ["laravel", "php", "web-development", "testing", "tailwind", "pest"],
+  "license": "MIT",
+  "homepage": "https://github.com/matula/laravel-claude-marketplace",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matula/laravel-claude-marketplace.git"
+  }
+}
