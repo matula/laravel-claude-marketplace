@@ -41,7 +41,7 @@ Comprehensive testing guidance with Pest v4:
 
 ## 🚀 Quick Start
 
-1. **Install the skills** in Claude Code. Install the marketplace with `\plugin`, and use 
+1. **Install the skills** in Claude Code. Install the marketplace with `\plugin`, and use `matula/laravel-claude-marketplace`
 2. **Start coding** - The skills automatically activate when working on relevant tasks
 3. **Get expert guidance** - Claude provides context-aware help based on what you're doing
 
